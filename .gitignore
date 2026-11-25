@@ -22,3 +22,6 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Claude factory verification output (uploaded as CI artifacts)
+factory-proof/
